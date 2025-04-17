@@ -4,18 +4,18 @@ A simple and motivating web app built with **Python** and **Streamlit** to help 
 
 ## 🚀 Live Demo
 
-[Launch App](http://localhost:8501/)  
-> _Note: This link works only on your local machine. For public access, consider hosting on [Streamlit Cloud](https://streamlit.io/cloud)._
+👉 [Click here to launch the app](https://jgqiwibrwp6dt2h9ueliwd.streamlit.app/)
 
 ## 🔧 Tech Stack
 
 - Python
 - Streamlit
 
-## 📝 How to Run
+## 📝 How to Run Locally
 
 ```bash
 git clone https://github.com/muskansirajkhan/-Growth-Mindset-Challenge.git
 cd -Growth-Mindset-Challenge
 pip install streamlit
 streamlit run app.py
+
